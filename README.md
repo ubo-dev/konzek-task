@@ -3,7 +3,7 @@ ___
 ### Golang Application
 
 ---
-This project provides to reach CRUD operations for Tasks as Authorized User.
+This project provides to reach CRUD operations for Tasks as Authorized User with JWtToken.
 
 ## Endpoints
 
