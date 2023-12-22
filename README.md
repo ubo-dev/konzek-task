@@ -1,9 +1,6 @@
 # Konzek-task
-___
-### Golang Application
 
----
-This project provides to reach CRUD operations for Tasks as Authorized User with JWtToken.
+This Golang project provides to reach CRUD operations for Tasks as Authorized User with JWtToken.
 
 ## Endpoints
 
